@@ -1,4 +1,4 @@
-# DSP-experiments
+# DSP-Experiments
 Two Computer Experiments of Digital Signal Processing II
 
 ## experiment_1
